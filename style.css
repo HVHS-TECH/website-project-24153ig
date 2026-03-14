@@ -4,13 +4,6 @@
   gap: 10px;
 }
 
-.navbar {
-  grid-column: 1 / 3; 
-}
-
-.header/image {
-  grid-column: 1 / 3; 
-}
 
 .container div {
   background-color: lightblue;
