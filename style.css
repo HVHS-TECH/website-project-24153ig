@@ -33,4 +33,6 @@ text-align:center;
   padding: 15px;
 }
 
-.container header:
+.container header {
+object-fit: cover; 
+}
