@@ -12,6 +12,14 @@
   grid-column: 3 / 3; 
 }
 
-.header/image {
+.aboutattack {
+  grid-column: 1 / 3; 
+}
+
+.aboutmidcourt {
+  grid-column: 1 / 3; 
+}
+
+.aboutdefence {
   grid-column: 1 / 3; 
 }
