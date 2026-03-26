@@ -10,8 +10,19 @@ text-align:center;
 text-align:center;
 }
 
-a {
-  color: rgb(0,0,0);
+nav {
+  overflow: hidden;
+  background-color: lightblue;
+}
+
+nav a {
+  float: left;
+  display: block;
+  padding: 14px ;
+}
+
+nav a:hover {
+  background-color: #C5EBFE;
 }
 
 .info {
