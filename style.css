@@ -4,14 +4,17 @@ body {
 
 .aboutattack {
 text-align:center;
+color: #484644;
 }
 
 .aboutmidcourt {
 text-align:center;
+color: #484644;
 }
 
 .aboutdefence {
 text-align:center;
+color: #484644;
 }
 
 nav {
@@ -30,6 +33,7 @@ nav a:hover {
 
 .info {
 text-align:center;
+color: #484644;
 }
 
 .container {
