@@ -64,8 +64,12 @@ a {
   text-decoration: none;
 }
 
-h4,p,h2,li{ 
+h4,p,h2,li,h1{ 
   color:#484644;
+}
+
+h1{
+  text-align: center;
 }
 
 
