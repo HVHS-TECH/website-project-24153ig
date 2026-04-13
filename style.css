@@ -39,7 +39,7 @@ color: #484644;
 .container {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-  gap: 10px;
+
 }
 
 .navbar {
@@ -72,7 +72,7 @@ h1{
   text-align: center;
 }
 
-.wheregoaldefencecangooncourt, .wheregoalshotcangooncourt, .wheregoalattackcangooncourt, .wherewingattackcangooncourt, .wherecentercangooncourt, .wherewingdefenececangooncourt {
+.wheregoaldefencecangooncourt, .wheregoalshotcangooncourt, .wheregoalattackcangooncourt, .wherewingattackcangooncourt, .wherecentercangooncourt, .wherewingdefenececangooncourt, .wheregoalkeepertcangooncourt {
 text-align: center;
 
 }
