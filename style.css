@@ -72,7 +72,7 @@ h1{
   text-align: center;
 }
 
-.wheregoaldefencecangooncourt, wheregoalshotcangooncourt {
+.wheregoaldefencecangooncourt, .wheregoalshotcangooncourt, .wheregoalattackcangooncourt {
 text-align: center;
 
 }
