@@ -17,17 +17,19 @@ text-align:center;
 color: #484644;
 }
 
-nav {
-  background-color: lightblue;
+.navbar {
+  position: sticky;
+  top: 0;
+  overflow: hidden;
 }
 
-nav a {
+.navbar a {
   float: left;
   display: block;
   padding: 14px ;
 }
 
-nav a:hover {
+.navbar a:hover {
   background-color: #CFDCE8;
 }
 
