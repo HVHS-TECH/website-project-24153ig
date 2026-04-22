@@ -77,9 +77,7 @@ h1{
 }
 
 .wheregoaldefencecangooncourt, .wheregoalshotcangooncourt, .wheregoalattackcangooncourt, .wherewingattackcangooncourt, .wherecentercangooncourt, .wherewingdefenececangooncourt, .wheregoalkeepertcangooncourt {
-  text-align: center;
   display: flex;
-  flex-direction: column;
   justify-content: center;
   align-items: center;
 }
