@@ -62,7 +62,7 @@ color: #484644;
   grid-column: 1 / 4; 
 }
 
-.info {
+.info, .row {
   grid-column: 1 / 4; 
 }
 
@@ -96,4 +96,14 @@ h1{
   align-items: center;
 }
 
+.row {
+  display: flex;
+  align-items: flex-start;
+  justify-content: space-between;
+}
+
+.column {
+  flex:1;
+  text-align: center;
+}
 
