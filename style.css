@@ -80,7 +80,7 @@ a {
   text-decoration: none;
 }
 
-h4,p,h2,li,h1{ 
+h4,p,h2,li,h1,h3{ 
   color:#484644;
 }
 
@@ -109,4 +109,8 @@ h1{
 
 .full-width {
   width: 100%;
+}
+
+h3 {
+  font-size: 5px:
 }
